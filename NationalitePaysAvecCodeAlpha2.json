@@ -1,0 +1,794 @@
+{
+    "1": {
+        "nom": "Fran\u00e7aise",
+        "alpha_2_code": "FR"
+    },
+    "2": {
+        "nom": "Suisse",
+        "alpha_2_code": "CH"
+    },
+    "3": {
+        "nom": "Belge",
+        "alpha_2_code": "BE"
+    },
+    "4": {
+        "nom": "Allemande",
+        "alpha_2_code": "DE"
+    },
+    "5": {
+        "nom": "Italienne",
+        "alpha_2_code": "IT"
+    },
+    "6": {
+        "nom": "Afghane",
+        "alpha_2_code": "AF"
+    },
+    "7": {
+        "nom": "Albanaise",
+        "alpha_2_code": "AL"
+    },
+    "8": {
+        "nom": "Algerienne",
+        "alpha_2_code": "DZ"
+    },
+    "9": {
+        "nom": "Americaine",
+        "alpha_2_code": "US"
+    },
+    "10": {
+        "nom": "Andorrane",
+        "alpha_2_code": "AD"
+    },
+    "11": {
+        "nom": "Angolaise",
+        "alpha_2_code": "AO"
+    },
+    "12": {
+        "nom": "Antiguaise et barbudienne",
+        "alpha_2_code": "AG"
+    },
+    "13": {
+        "nom": "Argentine",
+        "alpha_2_code": "AR"
+    },
+    "14": {
+        "nom": "Armenienne",
+        "alpha_2_code": "AM"
+    },
+    "15": {
+        "nom": "Australienne",
+        "alpha_2_code": "AU"
+    },
+    "16": {
+        "nom": "Autrichienne",
+        "alpha_2_code": "AT"
+    },
+    "17": {
+        "nom": "Azerba\u00efdjanaise",
+        "alpha_2_code": "AZ"
+    },
+    "18": {
+        "nom": "Bahamienne",
+        "alpha_2_code": "BS"
+    },
+    "19": {
+        "nom": "Bahreinienne",
+        "alpha_2_code": "BH"
+    },
+    "20": {
+        "nom": "Bangladaise",
+        "alpha_2_code": "BD"
+    },
+    "21": {
+        "nom": "Barbadienne",
+        "alpha_2_code": "BB"
+    },
+    "22": {
+        "nom": "Belizienne",
+        "alpha_2_code": "BZ"
+    },
+    "23": {
+        "nom": "Beninoise",
+        "alpha_2_code": "BJ"
+    },
+    "24": {
+        "nom": "Bhoutanaise",
+        "alpha_2_code": "BT"
+    },
+    "25": {
+        "nom": "Bielorusse",
+        "alpha_2_code": "BY"
+    },
+    "26": {
+        "nom": "Birmane",
+        "alpha_2_code": "MM"
+    },
+    "27": {
+        "nom": "Bissau-Guin\u00e9enne",
+        "alpha_2_code": "GW"
+    },
+    "28": {
+        "nom": "Bolivienne",
+        "alpha_2_code": "BO"
+    },
+    "29": {
+        "nom": "Bosnienne",
+        "alpha_2_code": "BA"
+    },
+    "30": {
+        "nom": "Botswanaise",
+        "alpha_2_code": "BW"
+    },
+    "31": {
+        "nom": "Bresilienne",
+        "alpha_2_code": "BR"
+    },
+    "32": {
+        "nom": "Britannique",
+        "alpha_2_code": "UK"
+    },
+    "33": {
+        "nom": "Bruneienne",
+        "alpha_2_code": "BN"
+    },
+    "34": {
+        "nom": "Bulgare",
+        "alpha_2_code": "BG"
+    },
+    "35": {
+        "nom": "Burkinabe",
+        "alpha_2_code": "BF"
+    },
+    "36": {
+        "nom": "Burundaise",
+        "alpha_2_code": "BI"
+    },
+    "37": {
+        "nom": "Cambodgienne",
+        "alpha_2_code": "KH"
+    },
+    "38": {
+        "nom": "Camerounaise",
+        "alpha_2_code": "CM"
+    },
+    "39": {
+        "nom": "Canadienne",
+        "alpha_2_code": "CA"
+    },
+    "40": {
+        "nom": "Cap-verdienne",
+        "alpha_2_code": "CV"
+    },
+    "41": {
+        "nom": "Centrafricaine",
+        "alpha_2_code": "CF"
+    },
+    "42": {
+        "nom": "Chilienne",
+        "alpha_2_code": "CL"
+    },
+    "43": {
+        "nom": "Chinoise",
+        "alpha_2_code": "CN"
+    },
+    "44": {
+        "nom": "Chypriote",
+        "alpha_2_code": "CY"
+    },
+    "45": {
+        "nom": "Colombienne",
+        "alpha_2_code": "CO"
+    },
+    "46": {
+        "nom": "Comorienne",
+        "alpha_2_code": "KM"
+    },
+    "47": {
+        "nom": "Congolaise",
+        "alpha_2_code": "CG"
+    },
+    "48": {
+        "nom": "Costaricaine",
+        "alpha_2_code": "CR"
+    },
+    "49": {
+        "nom": "Croate",
+        "alpha_2_code": "HR"
+    },
+    "50": {
+        "nom": "Cubaine",
+        "alpha_2_code": "CU"
+    },
+    "51": {
+        "nom": "Cura\u00e7aoane",
+        "alpha_2_code": "CW"
+    },
+    "52": {
+        "nom": "Danoise",
+        "alpha_2_code": "DK"
+    },
+    "53": {
+        "nom": "Djiboutienne",
+        "alpha_2_code": "DJ"
+    },
+    "54": {
+        "nom": "Dominicaine",
+        "alpha_2_code": "DO"
+    },
+    "55": {
+        "nom": "Dominiquaise",
+        "alpha_2_code": "DM"
+    },
+    "56": {
+        "nom": "Egyptienne",
+        "alpha_2_code": "EG"
+    },
+    "57": {
+        "nom": "Emirienne",
+        "alpha_2_code": "AE"
+    },
+    "58": {
+        "nom": "Equato-guineenne",
+        "alpha_2_code": "GQ"
+    },
+    "59": {
+        "nom": "Equatorienne",
+        "alpha_2_code": "EC"
+    },
+    "60": {
+        "nom": "Erythreenne",
+        "alpha_2_code": "ER"
+    },
+    "61": {
+        "nom": "Espagnole",
+        "alpha_2_code": "ES"
+    },
+    "62": {
+        "nom": "Est-timoraise",
+        "alpha_2_code": "TL"
+    },
+    "63": {
+        "nom": "Estonienne",
+        "alpha_2_code": "EE"
+    },
+    "64": {
+        "nom": "Ethiopienne",
+        "alpha_2_code": "ET"
+    },
+    "65": {
+        "nom": "Fidjienne",
+        "alpha_2_code": "FJ"
+    },
+    "66": {
+        "nom": "Finlandaise",
+        "alpha_2_code": "FI"
+    },
+    "67": {
+        "nom": "Gabonaise",
+        "alpha_2_code": "GA"
+    },
+    "68": {
+        "nom": "Gambienne",
+        "alpha_2_code": "GM"
+    },
+    "69": {
+        "nom": "Georgienne",
+        "alpha_2_code": "GE"
+    },
+    "70": {
+        "nom": "Ghaneenne",
+        "alpha_2_code": "GH"
+    },
+    "71": {
+        "nom": "Grenadienne",
+        "alpha_2_code": "GD"
+    },
+    "72": {
+        "nom": "Guatemalteque",
+        "alpha_2_code": "GT"
+    },
+    "73": {
+        "nom": "Guineenne",
+        "alpha_2_code": "GN"
+    },
+    "74": {
+        "nom": "Guyanienne",
+        "alpha_2_code": "GY"
+    },
+    "75": {
+        "nom": "Ha\u00eftienne",
+        "alpha_2_code": "HT"
+    },
+    "76": {
+        "nom": "Hellenique",
+        "alpha_2_code": "GR"
+    },
+    "77": {
+        "nom": "Hondurienne",
+        "alpha_2_code": "HN"
+    },
+    "78": {
+        "nom": "Hongroise",
+        "alpha_2_code": "HU"
+    },
+    "79": {
+        "nom": "Indienne",
+        "alpha_2_code": "IN"
+    },
+    "80": {
+        "nom": "Indonesienne",
+        "alpha_2_code": "ID"
+    },
+    "81": {
+        "nom": "Irakienne",
+        "alpha_2_code": "IQ"
+    },
+    "82": {
+        "nom": "Irlandaise",
+        "alpha_2_code": "IE"
+    },
+    "83": {
+        "nom": "Islandaise",
+        "alpha_2_code": "IS"
+    },
+    "84": {
+        "nom": "Isra\u00e9lienne",
+        "alpha_2_code": "IL"
+    },
+    "85": {
+        "nom": "Ivoirienne",
+        "alpha_2_code": "CI"
+    },
+    "86": {
+        "nom": "Jama\u00efcaine",
+        "alpha_2_code": "JM"
+    },
+    "87": {
+        "nom": "Japonaise",
+        "alpha_2_code": "JP"
+    },
+    "88": {
+        "nom": "Jordanienne",
+        "alpha_2_code": "JO"
+    },
+    "89": {
+        "nom": "Kazakhstanaise",
+        "alpha_2_code": "KZ"
+    },
+    "90": {
+        "nom": "Kenyane",
+        "alpha_2_code": "KE"
+    },
+    "91": {
+        "nom": "Kirghize",
+        "alpha_2_code": "KG"
+    },
+    "92": {
+        "nom": "Kiribatienne",
+        "alpha_2_code": "KI"
+    },
+    "93": {
+        "nom": "Kittitienne-et-nevicienne",
+        "alpha_2_code": "KN"
+    },
+    "94": {
+        "nom": "Kossovienne",
+        "alpha_2_code": "XK"
+    },
+    "95": {
+        "nom": "Koweitienne",
+        "alpha_2_code": "KW"
+    },
+    "96": {
+        "nom": "Laotienne",
+        "alpha_2_code": "LA"
+    },
+    "97": {
+        "nom": "Lesothane",
+        "alpha_2_code": "LS"
+    },
+    "98": {
+        "nom": "Lettone",
+        "alpha_2_code": "LV"
+    },
+    "99": {
+        "nom": "Libanaise",
+        "alpha_2_code": "LB"
+    },
+    "100": {
+        "nom": "Liberienne",
+        "alpha_2_code": "LR"
+    },
+    "101": {
+        "nom": "Libyenne",
+        "alpha_2_code": "LY"
+    },
+    "102": {
+        "nom": "Liechtensteinoise",
+        "alpha_2_code": "LI"
+    },
+    "103": {
+        "nom": "Lituanienne",
+        "alpha_2_code": "LT"
+    },
+    "104": {
+        "nom": "Luxembourgeoise",
+        "alpha_2_code": "LU"
+    },
+    "105": {
+        "nom": "Macedonienne",
+        "alpha_2_code": "MK"
+    },
+    "106": {
+        "nom": "Malaisienne",
+        "alpha_2_code": "MY"
+    },
+    "107": {
+        "nom": "Malawienne",
+        "alpha_2_code": "MW"
+    },
+    "108": {
+        "nom": "Maldivienne",
+        "alpha_2_code": "MV"
+    },
+    "109": {
+        "nom": "Malgache",
+        "alpha_2_code": "MG"
+    },
+    "110": {
+        "nom": "Malienne",
+        "alpha_2_code": "ML"
+    },
+    "111": {
+        "nom": "Maltaise",
+        "alpha_2_code": "MT"
+    },
+    "112": {
+        "nom": "Marocaine",
+        "alpha_2_code": "MA"
+    },
+    "113": {
+        "nom": "Marshallaise",
+        "alpha_2_code": "MH"
+    },
+    "114": {
+        "nom": "Mauricienne",
+        "alpha_2_code": "MU"
+    },
+    "115": {
+        "nom": "Mauritanienne",
+        "alpha_2_code": "MR"
+    },
+    "116": {
+        "nom": "Mexicaine",
+        "alpha_2_code": "MX"
+    },
+    "117": {
+        "nom": "Micronesienne",
+        "alpha_2_code": "FM"
+    },
+    "118": {
+        "nom": "Moldave",
+        "alpha_2_code": "MD"
+    },
+    "119": {
+        "nom": "Monegasque",
+        "alpha_2_code": "MC"
+    },
+    "120": {
+        "nom": "Mongole",
+        "alpha_2_code": "MN"
+    },
+    "121": {
+        "nom": "Montenegrine",
+        "alpha_2_code": "ME"
+    },
+    "122": {
+        "nom": "Mozambicaine",
+        "alpha_2_code": "MZ"
+    },
+    "123": {
+        "nom": "Namibienne",
+        "alpha_2_code": "NA"
+    },
+    "124": {
+        "nom": "Nauruane",
+        "alpha_2_code": "NR"
+    },
+    "125": {
+        "nom": "Neerlandaise",
+        "alpha_2_code": "NL"
+    },
+    "126": {
+        "nom": "Neo-zelandaise",
+        "alpha_2_code": "NZ"
+    },
+    "127": {
+        "nom": "Nepalaise",
+        "alpha_2_code": "NP"
+    },
+    "128": {
+        "nom": "Nicaraguayenne",
+        "alpha_2_code": "NI"
+    },
+    "129": {
+        "nom": "Nigeriane",
+        "alpha_2_code": "NG"
+    },
+    "130": {
+        "nom": "Nigerienne",
+        "alpha_2_code": "NE"
+    },
+    "131": {
+        "nom": "Nord-cor\u00e9enne",
+        "alpha_2_code": "KP"
+    },
+    "132": {
+        "nom": "Norvegienne",
+        "alpha_2_code": "NO"
+    },
+    "133": {
+        "nom": "Omanaise",
+        "alpha_2_code": "OM"
+    },
+    "134": {
+        "nom": "Ougandaise",
+        "alpha_2_code": "UG"
+    },
+    "135": {
+        "nom": "Ouzbeke",
+        "alpha_2_code": "UZ"
+    },
+    "136": {
+        "nom": "Pakistanaise",
+        "alpha_2_code": "PK"
+    },
+    "137": {
+        "nom": "Palau",
+        "alpha_2_code": "PW"
+    },
+    "138": {
+        "nom": "Palestinienne",
+        "alpha_2_code": "PS"
+    },
+    "139": {
+        "nom": "Panameenne",
+        "alpha_2_code": "PA"
+    },
+    "140": {
+        "nom": "Papouane-neoguineenne",
+        "alpha_2_code": "PG"
+    },
+    "141": {
+        "nom": "Paraguayenne",
+        "alpha_2_code": "PY"
+    },
+    "142": {
+        "nom": "Peruvienne",
+        "alpha_2_code": "PE"
+    },
+    "143": {
+        "nom": "Philippine",
+        "alpha_2_code": "PH"
+    },
+    "144": {
+        "nom": "Polonaise",
+        "alpha_2_code": "PL"
+    },
+    "145": {
+        "nom": "Portoricaine",
+        "alpha_2_code": "PR"
+    },
+    "146": {
+        "nom": "Portugaise",
+        "alpha_2_code": "PT"
+    },
+    "147": {
+        "nom": "Qatarienne",
+        "alpha_2_code": "QA"
+    },
+    "148": {
+        "nom": "Roumaine",
+        "alpha_2_code": "RO"
+    },
+    "149": {
+        "nom": "Russe",
+        "alpha_2_code": "RU"
+    },
+    "150": {
+        "nom": "Rwandaise",
+        "alpha_2_code": "RW"
+    },
+    "151": {
+        "nom": "Saint-Lucienne",
+        "alpha_2_code": "LC"
+    },
+    "152": {
+        "nom": "Saint-Marinaise",
+        "alpha_2_code": "SM"
+    },
+    "153": {
+        "nom": "Saint-Martinoise",
+        "alpha_2_code": "SX"
+    },
+    "154": {
+        "nom": "Saint-Vincentaise-et-Grenadine",
+        "alpha_2_code": "VC"
+    },
+    "155": {
+        "nom": "Salomonaise",
+        "alpha_2_code": "SB"
+    },
+    "156": {
+        "nom": "Salvadorienne",
+        "alpha_2_code": "SV"
+    },
+    "157": {
+        "nom": "Samoane",
+        "alpha_2_code": "WS"
+    },
+    "158": {
+        "nom": "Santomeenne",
+        "alpha_2_code": "ST"
+    },
+    "159": {
+        "nom": "Saoudienne",
+        "alpha_2_code": "SA"
+    },
+    "160": {
+        "nom": "Senegalaise",
+        "alpha_2_code": "SN"
+    },
+    "161": {
+        "nom": "Sud-Soudanaise",
+        "alpha_2_code": "SS"
+    },
+    "162": {
+        "nom": "Serbe",
+        "alpha_2_code": "RS"
+    },
+    "163": {
+        "nom": "Seychelloise",
+        "alpha_2_code": "SC"
+    },
+    "164": {
+        "nom": "Sierra-leonaise",
+        "alpha_2_code": "SL"
+    },
+    "165": {
+        "nom": "Singapourienne",
+        "alpha_2_code": "SG"
+    },
+    "166": {
+        "nom": "Slovaque",
+        "alpha_2_code": "SK"
+    },
+    "167": {
+        "nom": "Slovene",
+        "alpha_2_code": "SI"
+    },
+    "168": {
+        "nom": "Somalienne",
+        "alpha_2_code": "SO"
+    },
+    "169": {
+        "nom": "Soudanaise",
+        "alpha_2_code": "SD"
+    },
+    "170": {
+        "nom": "Sri-lankaise",
+        "alpha_2_code": "LK"
+    },
+    "171": {
+        "nom": "Sud-africaine",
+        "alpha_2_code": "ZA"
+    },
+    "172": {
+        "nom": "Sud-cor\u00e9enne",
+        "alpha_2_code": "KR"
+    },
+    "173": {
+        "nom": "Suedoise",
+        "alpha_2_code": "SE"
+    },
+    "174": {
+        "nom": "Surinamaise",
+        "alpha_2_code": "SR"
+    },
+    "175": {
+        "nom": "Swazie",
+        "alpha_2_code": "SZ"
+    },
+    "176": {
+        "nom": "Syrienne",
+        "alpha_2_code": "SY"
+    },
+    "177": {
+        "nom": "Tadjike",
+        "alpha_2_code": "TJ"
+    },
+    "178": {
+        "nom": "Taiwanaise",
+        "alpha_2_code": "TW"
+    },
+    "179": {
+        "nom": "Tanzanienne",
+        "alpha_2_code": "TZ"
+    },
+    "180": {
+        "nom": "Tchadienne",
+        "alpha_2_code": "TD"
+    },
+    "181": {
+        "nom": "Tcheque",
+        "alpha_2_code": "CZ"
+    },
+    "182": {
+        "nom": "Tha\u00eflandaise",
+        "alpha_2_code": "TH"
+    },
+    "183": {
+        "nom": "Togolaise",
+        "alpha_2_code": "TG"
+    },
+    "184": {
+        "nom": "Tonguienne",
+        "alpha_2_code": "TO"
+    },
+    "185": {
+        "nom": "Trinidadienne",
+        "alpha_2_code": "TT"
+    },
+    "186": {
+        "nom": "Tunisienne",
+        "alpha_2_code": "TN"
+    },
+    "187": {
+        "nom": "Turkmene",
+        "alpha_2_code": "TM"
+    },
+    "188": {
+        "nom": "Turque",
+        "alpha_2_code": "TR"
+    },
+    "189": {
+        "nom": "Tuvaluane",
+        "alpha_2_code": "TV"
+    },
+    "190": {
+        "nom": "Ukrainienne",
+        "alpha_2_code": "UA"
+    },
+    "191": {
+        "nom": "Uruguayenne",
+        "alpha_2_code": "UY"
+    },
+    "192": {
+        "nom": "Vaticane",
+        "alpha_2_code": "VA"
+    },
+    "193": {
+        "nom": "Vanuatuane",
+        "alpha_2_code": "VU"
+    },
+    "194": {
+        "nom": "Venezuelienne",
+        "alpha_2_code": "VE"
+    },
+    "195": {
+        "nom": "Vietnamienne",
+        "alpha_2_code": "VN"
+    },
+    "196": {
+        "nom": "Yemenite",
+        "alpha_2_code": "YE"
+    },
+    "197": {
+        "nom": "Zambienne",
+        "alpha_2_code": "ZM"
+    },
+    "198": {
+        "nom": "Zimbabweenne",
+        "alpha_2_code": "ZW"
+    }
+}
